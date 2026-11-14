@@ -1,0 +1,8 @@
+type = "aux"
+name = "小鹤形"
+table = "table.tsv"
+
+[words]
+2 = "AaBa"
+3 = "AaBaCa"
+4 = "AaBaCaZa"
